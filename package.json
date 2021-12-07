@@ -1,6 +1,6 @@
 {
   "name": "shadowizard-galindo",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "add awesome shadows for the non-designer",
   "main": "index.js",
   "scripts": {
